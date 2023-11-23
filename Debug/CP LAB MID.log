@@ -1,0 +1,5 @@
+﻿  CP LAB MID.cpp
+C:\Users\Student\source\repos\CP LAB MID\CP LAB MID\CP LAB MID.cpp(8,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\source\repos\CP LAB MID\CP LAB MID\CP LAB MID.cpp(8,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\source\repos\CP LAB MID\CP LAB MID\CP LAB MID.cpp(16,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CP LAB MID.vcxproj -> C:\Users\Student\source\repos\CP LAB MID\Debug\CP LAB MID.exe
